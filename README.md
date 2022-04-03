@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @sloglicha
+- 👀 I’m interested in modeling gene/phenotype interactions; the incidence of novel mutations under controlled selection
+- 🌱 I’m currently learning about biology, generally. 
+- 💞️ I’m looking to collaborate about quantitative genetics.
+- 📫 How to reach me: twitter @sloglicha
